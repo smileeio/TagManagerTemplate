@@ -15,5 +15,5 @@
 homepage: "https://smilee.io"
 documentation: "https://github.com/smileeio/TagManagerTemplate"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: e72cb728b3d8070a915b3fb367e473c95f5ca8c6
     changeNotes: Initial Version
