@@ -1,1 +1,1 @@
-# TagManagerTemplate
+# Official Tag Manager Template for Smilee Chat
